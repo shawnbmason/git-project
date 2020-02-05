@@ -7,3 +7,6 @@ def small_change():
 
 def hi_there():
     print("Updated python function with merge conflict demo")
+
+def faded():
+    print("You where the shadow to my light.... where are you now.... I'm faded....")

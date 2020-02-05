@@ -1,12 +1,3 @@
-> I'm in the feature branch
-
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-
 > This is a update to this file
 
 > hello World
@@ -14,4 +5,5 @@
 > this is a small change
 
 
-> My scary merge conflict code
+> Another star you fade away. Afraid our aim is out of sight; wanna see us alight. Where are you now? Was is all in our fantasy? Where are you now? Were you only imaginary? Where are you now? These shallow waters never met what I needed I'm letting go a deeper dive eternal silence of the sea. I'm breathing alive. where are you now?
+under the bright but faded lights you've set my heart on fire. Where are you now? Atlantis under the sea where are you now? Another dream. The monster's running wild inside of me.... I'M FADED... I'M FADED so lost, I'M FADED... I'M FADED... so lost, I'M FADED
