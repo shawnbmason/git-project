@@ -1,7 +1,5 @@
 def hello_world():
     return "hello"
 
-hello_world()
-
-
-return "Hello world"
+def small_change():
+    print("This is a small change that I have done")
