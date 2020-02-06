@@ -10,3 +10,7 @@ def hi_there():
 
 def faded():
     print("You where the shadow to my light.... where are you now.... I'm faded....")
+
+def shawn_mason():
+    print("Was here")
+    
